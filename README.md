@@ -8,4 +8,7 @@ The replicated data increases durability.
 
 Architecture
 The architecture comprises a frontend, five SQS queues, two replicated backends, two replicated duplicators, and two DynamoDB tables:
+
+
+
 ![alt text](https://github.com/philip-cui/aws_project/blob/master/replicated-arch.png)
